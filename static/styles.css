@@ -1,0 +1,27 @@
+.headingBox{
+    align-items: center;
+    text-align: center;
+}
+.headingLine{
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.buttonBox{
+    text-align: center;
+}
+.btn1{
+    border: none;
+    padding: 5px;
+    margin: 10px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.btn1:hover{
+    background-color: aqua;
+    color: black;
+}
